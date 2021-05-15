@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'viacom18-demo-project';
+  title = 'Viacom 18 Demo Project';
 }
